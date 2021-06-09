@@ -12,7 +12,7 @@
     + How you output each number (for the requirement below) is up to you and will be dependant on what technology you are using (e.g. web page vs. console application)
     + The application you create should reflect the position you are applying for (e.g. a web solution for a web position, web service/console app for a C# position, sql script for sql dev, etc)
 1. Zip your source code solution with a password, add it to the repository and submit it as a pull-request
-    + Title the pull request (replace [YourName] with your actual first and last name): [YourName] - FancyPants Submission
+    + Title the pull request: YourName - FancyPants Submission
     + Don't submit your source code to the repository - just include it in the zip file.  Only submit the password protected zip file in the PR.
     + If something happens and you are unable to create a pull-request, send your zip file to my email address (below)
 1. Email the password for your zip file to: chris.deluca[at]transactcampus.com 
