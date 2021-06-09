@@ -5,13 +5,15 @@
 #### Depending on the type of job you are applying for, you may complete this exercise in any programming language that makes sense (e.g. C#, Java & Spring Boot, SQL (PL/SQL or T/SQL), Delphi, C++, Bash, etc.).
 
 ### The process is as follows:
-1. Sign into GitHub - creating an account if necessary.
-1. Navigate to: <https://github.com/chris-deluca-transactcampus/fancypants>
-1. Create a fork of this repository
 1. Using the "Application Specification" (found below), please create an application, and any test routines, that completely fulfills the requirements found in the Application Specification
     + How you output each number (for the requirement below) is up to you and will be dependant on what technology you are using (e.g. web page vs. console application)
     + The application you create should reflect the position you are applying for (e.g. a web solution for a web position, web service/console app for a C# position, sql script for sql dev, etc)
-1. Zip your source code solution with a password, add it to the repository and submit it as a pull-request
+1. Zip your complete submission (source code, test routines, notes, etc.) with a password
+1. Sign into GitHub - creating an account if necessary.
+1. Navigate to: <https://github.com/chris-deluca-transactcampus/fancypants>
+1. Create a fork of this repository
+1. Add your zip file to the repository and commit your changes
+1. Open a pull request (click Contribute > Open a Pull Request)
     + Title the pull request: YourName - FancyPants Submission
     + Don't submit your source code to the repository - just include it in the zip file.  Only submit the password protected zip file in the PR.
     + If something happens and you are unable to create a pull-request, send your zip file to my email address (below)
