@@ -18,7 +18,7 @@
     + Don't submit your source code to the repository - just include it in the zip file.  Only submit the password protected zip file in the PR.
     + If something happens and you are unable to create a pull-request, send your zip file to my email address (below)
 1. Email the password for your zip file to: chris.deluca[at]transactcampus.com 
-    + Have the subject of your email be (replace [YourName] with your actual first and last name): [YourName] - FancyPants Submission
+    + Have the subject of your email be: [YourName] - FancyPants Submission
     + If I don't have a current copy of your resume, please include that as well.
 1. If you have questions about the exercise, please contact me (chris.deluca[at]transactcampus.com) and not the recruiters working with HR
 
